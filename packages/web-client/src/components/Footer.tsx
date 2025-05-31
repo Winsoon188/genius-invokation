@@ -69,6 +69,13 @@ export function Footer() {
           </a>
           )
         </div>
+        </div>
+           <a
+             title="加入用户群"
+             class="text-blue-400"
+             href="https://qm.q9.com/q/21K5gKhLxG'
+          ></a>
+        </div>
       </Show>
     </footer>
   );
